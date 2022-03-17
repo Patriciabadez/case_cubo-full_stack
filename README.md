@@ -1,5 +1,3 @@
-![tela_cubo](https://user-images.githubusercontent.com/88301906/158843533-ee6a5f91-599d-48cb-aa4c-ec3e9313b514.png)
-
 #  { case cubo "desenvolvedor": "fullstack" }
 
 ### link do surge: https://internal-friction.surge.sh/
@@ -12,7 +10,8 @@ O objetivo deste desafio era avaliar o domínio em desenvolvimento fullstack: or
 
 ###  Front-end
 
-O seguinte layout foi desenvolvodo 
+O seguinte layout foi desenvolvido. 
+![tela_cubo](https://user-images.githubusercontent.com/88301906/158843533-ee6a5f91-599d-48cb-aa4c-ec3e9313b514.png)
 
 
 ###  Back-end
